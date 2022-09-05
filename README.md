@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pmkoszalka
-- 👀 I’m interested in Data Science/ Data Engineering and DevOps
-- 🌱 I’m currently learning AWS, BASH
+- 👀 I’m interested in Data Science/ Data Engineering
+- 🌱 I’m currently learning Data Warhousing
 - 💞️ I’m looking to collaborate on Data Science/Data Engineering projects 
 - 📫 How to reach me email - pmkoszalka@gmail.com
 
